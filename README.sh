@@ -1,1 +1,1 @@
-echo "test message" | nc 1.213.220.135 4545
+sleep 1h
